@@ -1,12 +1,12 @@
 Hello fellow coder, hopefully this repo will help you start to make a clone hero tweak!
 
 ### Helpful resources:
-* Clone hero modding discord:   
+* Clone hero modding discord: https://discord.me/cloneheromodding  
 This discord has a bunch of people willing to help you get on your way with clone hero modding and know much more than me :P
 * biendeo's tweak repo: https://github.com/Biendeo/My-Clone-Hero-Tweaks  
 I suggest checking out at least some of his tweaks in code, especially if you want to access game variables. He has wrappers for some of the game code in common/wrappers.
 * DnSpy: https://github.com/0xd4d/dnSpy  
-If you want access to game variables and functions you'll need this to view the game code. (People on the discord can help)
+If you want access to game variables and functions you'll need this to view the game code. (People on the discord can help https://discord.me/cloneheromodding)
 * The Unity Scripting Refrence: https://docs.unity3d.com/ScriptReference/
 Especially if your not a Unity expert this is your friend.
 * My own tweak repo  
