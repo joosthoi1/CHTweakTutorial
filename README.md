@@ -20,3 +20,4 @@ My tweaks basically use biendeo's tweaks as a template so not quite as useful as
 5. Create your main tweak class which needs to inherit MonoBehaviour (I usually call it the same as the solution).
 6. Create a Loader class with the template provided (make sure to replace YourTweak with whatever you called the class in the previous step). This is the code to load your tweak. (Usually this code doesn't need to be altered, only if you do or don't want to use Biendeo's code wrappers)
 7. Now you are ready to create your tweak. You can use Unity methods just like you would in any other Unity script.
+8. Build your solution and put the DLL of your tweak in the Clone Hero tweak folder.
