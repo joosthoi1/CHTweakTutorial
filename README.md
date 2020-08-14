@@ -18,5 +18,5 @@ My tweaks basically use biendeo's tweaks as a template so not quite as useful as
 3. Create a .net framework 4.X (I use 4.7.2 but any for 4.X version should work) project and set the output type to class library. (I suggest using Visual Studio)
 4. Refrence UnityEngine.dll (Can be found in your clone hero folders under "Clone Hero_Data\Managed") and any other UnityEngine DLL's your project needs. (This can be done later aswell)
 5. Create your main tweak class which needs to inherit MonoBehaviour (I usually call it the same as the solution).
-6. Create a Loader class with the template provided (make sure to replace YourTweak with whatever you called the class in the previous step). This is the code to load your tweak.
+6. Create a Loader class with the template provided (make sure to replace YourTweak with whatever you called the class in the previous step). This is the code to load your tweak. (Usually this code doesn't need to be altered, only if you do or don't want to use Biendeo's code wrappers)
 7. Now you are ready to create your tweak. You can use Unity methods just like you would in any other Unity script.
