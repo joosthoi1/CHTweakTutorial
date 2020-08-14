@@ -9,7 +9,7 @@ I suggest checking out at least some of his tweaks in code, especially if you wa
 If you want access to game variables and functions you'll need this to view the game code. (People on the discord can help https://discord.me/cloneheromodding)
 * The Unity Scripting Refrence: https://docs.unity3d.com/ScriptReference/
 Especially if your not a Unity expert this is your friend.
-* My own tweak repo  
+* My own tweak repo: https://github.com/joosthoi1/Joost-tweaks  
 My tweaks basically use biendeo's tweaks as a template so not quite as useful as his lol  
 
 ### How to get started:
